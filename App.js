@@ -4,7 +4,9 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>ETEC PROFESSOR MILTON GAZZETTI</Text>
+      <Text style={{fontStyle: 'italic'}}>Terceira Série</Text>
+      <Text style={{textDecorationLine: 'underline'}}>mtec Informatica para internet</Text>
       <StatusBar style="auto" />
     </View>
   );
